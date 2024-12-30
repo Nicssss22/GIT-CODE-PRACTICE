@@ -1,4 +1,4 @@
-package Projects;
+package Codes.Projects;
 
 public class Hotel {
     public static void main(String[] args) {
