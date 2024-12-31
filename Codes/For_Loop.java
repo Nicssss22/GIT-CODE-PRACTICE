@@ -8,7 +8,7 @@ public class For_Loop {
         Scanner scanner = new Scanner(System.in);
         int choice;
 
-        for(int i = 0; i < 5; i++){
+        for(int i = 0; i < 10; i++){
             System.out.println("Hello For loop");
         }
         System.out.println("Enter 1 to loop, enter any number to terminate the loop");
