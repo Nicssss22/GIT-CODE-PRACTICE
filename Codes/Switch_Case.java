@@ -12,16 +12,7 @@ public class Switch_Case {
 			System.out.println("Hello World");
 			break;
 		case 2:
-			System.out.println("Hello bulsu");
-			break;
-		case 3:
-			System.out.println("Hello malolos");
-			break;
-		case 4:
-			System.out.println("Hello itc");
-			break;
-		case 5:
-			System.out.println("Hello programming");
+			System.out.println("Hello World");
 			break;
 		default:
 			System.out.println("Non of the cases");
